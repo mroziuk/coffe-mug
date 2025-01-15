@@ -1,11 +1,4 @@
-# CoffeMug
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
-
 # Description
 Product component with 3D model preview using **Angular Three**, implemented changing material color and slicing.
 
-## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Build
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+[Live Demo](https://yellow-sand-0ed3a1303.4.azurestaticapps.net/)
